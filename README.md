@@ -3,11 +3,11 @@ Airline Ticketing application for booking(passenger) and Admin(Administrator)
 
 Keterangan menu
 Pada saat memasuki halaman utama dari aplikasi pemesanan tiket ini, pengguna akan disambut oleh homepage mengenai detail singkat mengenai aplikasi maskapai penerbangan ini. Pada sisi kiri terdapat menu pilihan yaitu : 
-  1.	Passenger (Penumpang) 	: untuk melakukan pemesanan tiket bagi penumpang 
-  2.	Admin		              	: untuk akses admin merubah dan memeriksa data penumpang
-  3.	Manifest	          		: untuk melihat data yang tersimpan di crystal report 
-  4.	Gallery			            : untuk melihat berbagai jenis pesawat utama pada maskapai ini
-  5.	Credits			            : untuk melihat referensi sumber yang digunakan dalam program  		
+  -	Passenger (Penumpang) 	: untuk melakukan pemesanan tiket bagi penumpang 
+  -	Admin		              	: untuk akses admin merubah dan memeriksa data penumpang
+  -	Manifest	          		: untuk melihat data yang tersimpan di crystal report 
+  -	Gallery			            : untuk melihat berbagai jenis pesawat utama pada maskapai ini
+  -	Credits			            : untuk melihat referensi sumber yang digunakan dalam program  		
 
 1. Menu Passenger
 Ketika pengguna membuka menu passenger maka akan muncul “Reservation Form” atau Surat pemesanan. Dalam menu ini pengguna dapat memesan tiket pesawat sesuai keperluan.
